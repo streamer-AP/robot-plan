@@ -22,5 +22,5 @@ python main.py
 ```
 
 生成的路径示例：
-[《深度学习500问》交流群二维码](/Trace.jpg)
-["路径"](https://github.com/streamer-AP/robot-plan/blob/master/Trace.jpg)
+
+[路径](https://github.com/streamer-AP/robot-plan/blob/master/Trace.jpg)
